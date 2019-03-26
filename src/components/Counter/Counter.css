@@ -1,0 +1,16 @@
+.btn {
+    padding: 10px;
+    border: 1px solid #ccc;
+    max-width: 100px;
+    margin: 10px auto;
+    color: white;
+    cursor: pointer;
+}
+
+.btn-increase{
+    background-color:green;
+}
+
+.btn-decrease{
+    background-color:red;
+}
